@@ -1,6 +1,6 @@
-# linux-ax25.org replacement
+# linux-ax25.org mirror
 
-This is the replacement git repository for linux-ax25.org. If you would like to contribute please ask. I need the latest clones available for what used to be on linux-ax25.org. If you have a pointer please let me know.
+This is the mirror git repository for linux-ax25.org. 
 
 73 de Mike, W1NR
 
